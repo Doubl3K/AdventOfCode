@@ -5,7 +5,8 @@ document.getElementById('inputfile')
   var fr = new FileReader();
   fr.onload = function () {
     document.getElementById('output')
-        .textContent = fr.result.replace(/\s/g, ',');
+        .textContent = fr.result.replace(/\s/g, '", "');
+
   };
 
   fr.readAsText(this.files[0]);
