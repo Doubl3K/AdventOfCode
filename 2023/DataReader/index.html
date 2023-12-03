@@ -13,13 +13,21 @@
 
 			code {
 				background-color: greenyellow;
+				overflow-wrap: break-word;
 			}
 		</style>
 		<input type="file" name="inputfile" id="inputfile" />
 		<br />
 
-		<code id="output"></code>
-
+		
+		<select name="select" id="scriptPicker">
+			<option value="LineBreakTextToArray">LineBreakTextToArray</option>
+			<option value="NULL"></option>
+			<option value="NULL"></option>
+			<option value="NULL"></option>
+		  </select>
+		  <Button onclick="changeAlgorithm()">Refactor!</Button>
+		  <code id="output"></code>
 		<script src="script.js" charset="utf-8"></script>
 	</body>
 </html>
