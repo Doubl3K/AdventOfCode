@@ -1,25 +1,12 @@
-async function changeAlgorithm(srciptToRun){
-	let key = document.getElementById("scriptPicker").value;
-	let text = null;
-	switch (key) {
-		case "LineBreakTextToArray":
-				text = await lineBreakTextToArray();				
-				console.log(text);
-			break;
-	
-		default:
-			alert("There is something wrong with the selected refactorer")
-			break;
-	}
-	if (text != null) {
-		await appendToOutput(text)	
-	}else{
-		alert("No readable text file")
-	}
-	
-}
+const prompt = require("prompt-sync")({sigint: true})
 
-async function lineBreakTextToArray() {
+const test = prompt()
+console.log("Script is running");
+console.log(test);
+
+
+
+function lineBreakTextToArray() {
 	let fileValue = document.getElementById("inputfile").files[0]
 	let fr = new FileReader();
 	let test; 
@@ -30,12 +17,12 @@ async function lineBreakTextToArray() {
 	}
 	fr.readAsText(fileValue)
 	
-	await appendToOutput(fr.result)
+	appendToOutput(fr.result)
 	
 	//fr does have a result property that holds the data that i need but fr.result is null ...
 }
 
 
-async function appendToOutput(text) {
+function appendToOutput(text) {
 	document.getElementById("output").append(text);
 }
