@@ -18,12 +18,11 @@ function refactorText(text) {
     text = text.replaceAll("Game ", "");
     text = text.replaceAll(":", ",")
     text = text.replaceAll(" ", "")
+    text = text.replaceAll(";", ",")
     let textArr = text.split("\r\n");
     textArr.forEach(element => {
         usableArray.push(element.split(","))
     });
-
-    console.log(usableArray);
     return text;
 }
 
@@ -36,8 +35,7 @@ function writeUsable(text){
 } 
 
 function checkForAmmount(usableArray){
-    // console.log(usableArray);    
-    
+    console.log(usableArray[0]);
     
 }
 /*TODO: Loop through the games to find out which are possible
