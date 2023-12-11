@@ -1,100 +1,100 @@
-["1"[" 4 blue"," 16 green"," 2 red"," 5 red"," 11 blue"," 16 green"," 9 green"," 11 blue"," 10 blue"," 6 green"," 4 red"],
-"2"[" 15 green"," 20 red"," 8 blue"," 12 green"," 7 red"," 10 green"," 2 blue"," 15 red"," 13 blue"," 15 red"],
-"3"[" 8 red"," 2 blue"," 3 green"," 10 blue"," 10 red"," 7 green"," 4 blue"," 7 red"," 8 red"," 6 green"," 13 blue"," 4 green"," 3 blue"," 10 red"," 7 blue"," 7 green"," 5 red"],
-"4"[" 13 green"," 14 blue"," 9 red"," 6 green"," 14 red"," 18 blue"," 9 red"," 11 green"," 3 blue"," 11 green"," 10 red"," 14 blue"," 17 blue"," 3 red"," 4 green"," 17 blue"," 1 red"," 9 green"],
-"5"[" 2 green"," 1 red"," 8 blue"," 2 green"," 6 red"," 5 blue"," 9 red"," 2 green"," 3 green"," 8 red"," 6 blue"," 6 blue"," 5 red"],
-"6"[" 3 green"," 7 blue"," 5 red"," 3 green"," 6 red"," 11 blue"," 6 red"," 1 green"],
-"7"[" 8 red"," 4 green"," 11 blue"," 12 blue"," 1 green"," 5 red"," 6 red"," 1 green"," 5 blue"," 12 blue"," 2 green"," 2 red"," 4 blue"," 4 green"," 3 red"," 9 blue"," 4 green"," 8 red"],
-"8"[" 1 red"," 4 green"," 6 red"," 1 green"," 10 red"," 1 blue"," 2 green"," 4 green"," 3 red"," 1 blue"," 8 red"],
-"9"[" 9 blue"," 13 green"," 1 red"," 10 green"," 4 blue"," 4 red"," 3 red"," 4 blue"," 14 green"," 13 blue"," 1 red"," 12 green"],
-"10"[" 2 blue"," 16 red"," 2 green"," 1 green"," 16 red"," 6 blue"," 9 red"," 3 green"," 1 green"," 2 blue"," 8 red"," 8 red"," 6 blue"," 3 green"],
-"11"[" 7 green"," 11 red"," 12 blue"," 3 blue"," 6 green"," 6 red"," 10 blue"," 13 green"," 1 red"," 13 green"," 9 blue"," 2 blue"," 2 red"," 13 green"," 2 red"," 3 blue"," 15 green"],
-"12"[" 3 green"," 2 red"," 2 blue"," 7 green"," 5 blue"," 1 blue"," 1 red"," 3 green"],
-"13"[" 2 green"," 2 red"," 3 blue"," 3 blue"," 3 red"," 3 green"," 3 green"," 2 red"," 2 blue"," 3 red"," 3 green"," 2 green"," 3 red"," 1 blue"],
-"14"[" 4 green"," 9 red"," 11 green"," 10 red"," 12 blue"," 6 red"," 3 green"," 12 blue"," 5 green"," 4 red"," 4 blue"," 18 blue"," 7 red"," 11 green"," 16 blue"," 4 red"," 10 green"],
-"15"[" 5 green"," 2 red"," 9 blue"," 18 green"," 6 red"," 20 blue"," 11 blue"," 12 green"," 11 red"," 9 red"," 17 blue"," 16 green"," 7 green"," 1 red"," 9 blue"],
-"16"[" 9 blue"," 11 green"," 8 green"," 2 blue"," 1 red"," 6 green"," 4 blue"],
-"17"[" 2 red"," 2 green"," 2 blue"," 7 blue"," 4 green"," 3 red"," 2 red"," 8 blue"," 1 green"," 2 red"," 6 blue"," 2 green"," 4 blue"," 3 red"," 4 green"," 5 red"," 6 blue"],
-"18"[" 6 green"," 7 red"," 3 blue"," 6 green"," 1 red"," 6 red"," 3 blue"," 5 green"],
-"19"[" 6 red"," 4 green"," 5 blue"," 2 red"," 4 blue"," 13 green"," 1 green"," 1 blue"," 2 red"," 4 green"],
-"20"[" 7 red"," 17 blue"," 6 green"," 3 blue"," 6 green"," 8 red"," 7 blue"," 6 red"," 1 green"," 3 green"," 8 red"," 7 green"," 14 blue"],
-"21"[" 5 red"," 3 blue"," 7 green"," 1 blue"," 2 red"," 5 green"," 2 blue"," 8 green"," 3 red"," 3 blue"," 8 red"," 4 green"," 5 red"," 1 blue"," 3 green"],
-"22"[" 2 red"," 6 green"," 1 blue"," 3 red"," 3 green"," 1 blue"," 2 green"," 7 red"," 2 blue"," 5 green"," 1 red"],
-"23"[" 2 red"," 16 green"," 1 blue"," 1 red"," 12 green"," 3 blue"," 12 green"," 1 blue"," 3 red"],
-"24"[" 7 red"," 1 blue"," 12 green"," 2 red"," 19 green"," 3 blue"," 19 green"," 1 blue"," 12 red"," 6 green"," 16 red"," 5 blue"," 11 red"," 4 blue"," 12 green"],
-"25"[" 2 blue"," 3 red"," 8 green"," 4 blue"," 2 red"," 9 green"," 2 red"," 7 blue"],
-"26"[" 17 red"," 8 blue"," 3 green"," 3 green"," 13 red"," 4 blue"," 20 red"," 1 green"," 6 blue"," 7 blue"," 2 red"," 2 green"," 20 red"," 8 blue"," 2 green"," 16 red"," 8 blue"],
-"27"[" 3 blue"," 17 green"," 19 red"," 16 green"," 5 red"," 6 blue"," 17 green"," 16 red"," 4 blue"],
-"28"[" 1 green"," 7 red"," 1 blue"," 8 green"," 12 red"," 1 blue"," 1 blue"," 9 red"," 1 green"],
-"29"[" 3 green"," 3 blue"," 2 red"," 3 green"," 2 red"," 1 blue"," 3 green"," 2 red"," 3 blue"," 3 blue"," 3 red"," 4 green"],
-"30"[" 3 red"," 8 blue"," 3 green"," 1 green"," 1 red"," 17 green"," 17 blue"," 19 green"," 15 blue"," 1 red"," 1 green"," 2 red"," 16 blue"],
-"31"[" 11 green"," 11 blue"," 14 red"," 6 blue"," 15 green"," 2 red"," 11 blue"," 19 green"," 2 red"],
-"32"[" 9 red"," 2 green"," 7 green"," 4 blue"," 2 red"," 6 red"," 5 green"," 1 blue"," 4 red"," 4 blue"," 1 green"," 8 red"," 6 green"],
-"33"[" 6 blue"," 16 red"," 9 green"," 5 red"," 7 blue"," 13 green"," 1 green"," 9 blue"," 1 red"," 4 green"," 9 blue"," 17 red"," 2 green"," 10 red"," 13 blue"," 9 red"," 1 blue"," 14 green"],
-"34"[" 2 red"," 2 green"," 4 blue"," 3 blue"," 2 green"," 1 green"," 1 red"," 2 blue"," 1 red"," 3 blue"," 3 green"," 2 green"," 8 blue"," 2 red"," 3 blue"," 1 red"],
-"35"[" 4 red"," 14 blue"," 2 green"," 1 green"," 15 blue"," 1 red"," 1 blue"," 2 red"," 1 green"],
-"36"[" 4 blue"," 1 red"," 2 green"," 2 green"," 15 blue"," 8 red"," 7 blue"," 1 red"," 7 red"," 1 green"," 1 blue"],
-"37"[" 2 blue"," 1 green"," 5 red"," 2 blue"," 2 green"," 4 red"," 2 blue"," 5 red"," 8 green"," 3 green"," 2 blue"," 1 red"," 1 red"," 1 blue"," 5 green"," 2 blue"," 1 red"," 8 green"],
-"38"[" 2 blue"," 4 green"," 11 red"," 7 green"," 6 red"," 2 blue"," 1 green"," 3 red"," 1 blue"," 4 blue"," 4 green"," 4 red"," 2 red"," 5 blue"," 2 green"],
-"39"[" 7 green"," 7 blue"," 2 red"," 11 blue"," 4 green"," 8 red"," 10 red"," 4 green"," 1 blue"," 8 green"," 9 blue"," 9 green"," 4 red"," 1 green"," 8 blue"],
-"40"[" 1 green"," 13 blue"," 6 blue"," 7 red"," 8 red"," 1 green"," 13 blue"," 3 red"," 1 green"," 16 red"," 13 blue"," 14 blue"," 14 red"," 1 green"],
-"41"[" 5 green"," 2 blue"," 10 red"," 4 green"," 2 blue"," 5 red"," 6 green"," 9 red"," 1 blue"," 4 red"," 1 blue"," 1 red"," 3 green"," 2 blue"," 3 red"],
-"42"[" 17 green"," 11 blue"," 11 red"," 5 blue"," 11 green"," 9 red"," 10 blue"," 13 red"," 4 green"," 8 green"," 4 blue"," 15 red"],
-"43"[" 1 red"," 3 blue"," 1 green"," 3 blue"," 1 red"," 2 blue"," 1 green"," 2 green"," 1 blue"," 1 red"," 3 blue"],
-"44"[" 7 green"," 5 red"," 1 blue"," 6 green"," 1 blue"," 5 red"," 2 blue"," 6 green"," 3 green"," 2 red"," 4 green"," 6 red"],
-"45"[" 16 red"," 14 blue"," 19 green"," 1 red"," 5 green"," 6 blue"," 16 blue"," 2 green"," 1 red"," 15 green"," 6 red"," 16 blue"],
-"46"[" 8 blue"," 2 green"," 4 red"," 3 green"," 6 blue"," 1 green"," 8 blue"," 3 red"," 3 green"," 12 blue"," 1 red"],
-"47"[" 9 green"," 3 blue"," 1 green"," 1 blue"," 4 blue"," 9 green"," 6 red"," 8 green"," 4 blue"," 6 red"," 6 red"," 12 green"," 1 blue"," 4 blue"," 7 green"],
-"48"[" 11 green"," 4 blue"," 1 red"," 11 blue"," 8 red"," 9 green"," 4 blue"," 3 red"," 7 green"," 10 blue"," 2 green"," 9 red"," 8 green"," 2 blue"," 2 red"],
-"49"[" 8 green"," 1 blue"," 5 red"," 1 green"," 1 blue"," 3 green"," 4 red"," 2 blue"," 1 blue"," 7 green"," 1 red"," 1 blue"," 7 green"," 3 red"," 5 red"," 5 green"],
-"50"[" 2 green"," 2 red"," 4 blue"," 8 blue"," 2 green"," 7 red"," 4 blue"," 5 red"," 9 red"," 4 blue"," 5 blue"," 9 red"," 2 green"," 8 red"," 6 blue"],
-"51"[" 6 green"," 1 red"," 2 blue"," 2 red"," 4 blue"," 6 green"," 9 blue"," 4 green"],
-"52"[" 7 green"," 3 red"," 12 blue"," 8 blue"," 9 red"," 5 green"," 2 blue"," 10 green"," 8 red"," 12 red"," 5 green"," 3 blue"," 8 red"," 8 green"," 12 blue"," 2 green"],
-"53"[" 2 green"," 9 blue"," 5 red"," 6 red"," 3 green"," 5 red"," 2 green"],
-"54"[" 9 red"," 13 blue"," 1 green"," 9 red"," 16 blue"," 12 red"," 1 blue"," 4 green"],
-"55"[" 1 red"," 2 blue"," 3 green"," 1 blue"," 1 red"," 5 blue"," 3 green"," 1 blue"," 3 green"," 5 blue"],
-"56"[" 1 green"," 4 red"," 1 blue"," 1 blue"," 2 red"," 13 green"," 5 blue"," 4 red"," 13 green"," 3 red"," 3 blue"],
-"57"[" 13 blue"," 2 red"," 7 green"," 3 green"," 4 red"," 14 blue"," 3 red"," 3 green"," 3 blue"," 7 blue"," 5 green"," 1 red"],
-"58"[" 6 red"," 1 blue"," 4 red"," 2 green"," 3 green"," 1 blue"," 7 green"," 1 red"," 6 red"," 13 green"," 1 blue"," 3 red"," 13 green"," 1 blue"],
-"59"[" 5 green"," 10 red"," 8 blue"," 7 red"," 3 green"," 2 blue"," 6 green"," 3 red"," 6 blue"],
-"60"[" 2 green"," 5 red"," 15 blue"," 2 green"," 9 blue"," 9 blue"," 8 green"," 3 red"," 2 green"," 6 red"," 2 blue"],
-"61"[" 8 blue"," 3 green"," 4 red"," 1 red"," 10 blue"," 1 green"," 4 red"," 5 green"," 3 blue"," 3 red"," 8 blue"," 5 green"],
-"62"[" 19 blue"," 3 red"," 14 green"," 1 green"," 7 blue"," 1 red"," 15 red"," 20 blue"," 6 green"," 8 red"," 4 green"," 14 blue"],
-"63"[" 13 red"," 1 blue"," 18 red"," 4 green"," 6 green"," 9 red"," 1 blue"," 7 green"," 1 blue"," 9 red"," 5 red"," 1 blue"," 4 green"," 5 green"," 1 blue"," 17 red"],
-"64"[" 2 green"," 1 blue"," 5 red"," 2 red"," 5 green"," 6 red"," 4 green"],
-"65"[" 1 blue"," 7 green"," 1 red"," 7 red"," 1 green"," 1 blue"," 3 green"," 3 red"," 7 red"," 3 green"," 3 green"," 7 red"," 1 blue"," 4 green"],
-"66"[" 7 green"," 6 blue"," 8 red"," 4 green"," 9 red"," 3 blue"," 6 green"," 4 blue"," 5 blue"," 2 green"," 6 red"," 4 green"," 2 blue"],
-"67"[" 10 blue"," 17 green"," 17 red"," 11 red"," 9 blue"," 9 green"," 9 blue"," 19 red"," 5 green"," 5 red"," 3 blue"," 20 green"," 11 red"," 1 blue"," 7 green"],
-"68"[" 9 green"," 4 red"," 5 blue"," 11 blue"," 9 green"," 2 red"," 11 blue"," 2 red"," 6 green"," 2 green"," 6 red"," 3 blue"," 1 blue"," 6 green"," 4 red"],
-"69"[" 3 red"," 15 blue"," 1 green"," 4 red"," 14 blue"," 2 green"," 4 red"," 18 blue"," 4 green"],
-"70"[" 3 red"," 8 green"," 2 red"," 6 green"," 4 red"," 2 blue"," 2 green"," 8 red"," 1 green"," 2 blue"," 6 red"," 3 blue"," 4 green"," 13 green"," 8 red"],
-"71"[" 3 green"," 17 red"," 2 red"," 3 green"," 2 green"," 8 red"," 1 blue"," 11 red"," 4 blue"," 3 green"," 11 red"," 3 blue"],
-"72"[" 1 red"," 17 blue"," 8 green"," 2 red"," 11 blue"," 16 green"," 3 red"," 16 blue"," 1 green"," 2 red"," 3 green"," 10 blue"],
-"73"[" 1 blue"," 10 green"," 8 red"," 19 green"," 10 red"," 5 blue"," 3 green"," 13 red"," 8 blue"," 12 green"," 4 blue"," 2 green"," 10 blue"," 12 red"],
-"74"[" 17 blue"," 7 red"," 10 green"," 16 blue"," 5 red"," 9 blue"," 7 green"," 2 red"," 10 red"," 4 green"," 14 blue"],
-"75"[" 10 green"," 5 blue"," 4 red"," 7 red"," 10 blue"," 7 green"," 7 blue"," 9 green"," 2 red"],
-"76"[" 13 green"," 16 red"," 20 blue"," 4 red"," 14 blue"," 5 green"," 12 red"," 1 blue"," 8 green"],
-"77"[" 4 red"," 2 green"," 8 blue"," 3 green"," 2 red"," 5 blue"," 7 green"," 3 red"],
-"78"[" 12 green"," 8 red"," 8 blue"," 10 green"," 9 red"," 10 blue"," 16 blue"," 1 red"," 17 green"," 4 red"," 15 green"," 13 blue"],
-"79"[" 4 green"," 2 red"," 15 red"," 3 blue"," 15 red"," 5 green"],
-"80"[" 4 blue"," 1 green"," 13 red"," 13 red"," 1 blue"," 5 green"," 5 blue"," 9 red"," 3 blue"," 3 green"," 1 red"," 3 red"," 7 green"," 6 blue"],
-"81"[" 10 red"," 3 green"," 4 blue"," 2 red"," 5 green"," 16 blue"," 3 green"," 1 blue"," 9 blue"," 2 green"," 12 red"],
-"82"[" 1 green"," 9 blue"," 1 red"," 10 blue"," 1 red"," 1 green"," 1 green"," 7 blue"," 8 blue"],
-"83"[" 1 blue"," 5 red"," 2 blue"," 3 red"," 1 green"," 2 blue"," 1 red"," 2 red"," 1 blue"," 1 green"," 1 green"," 1 blue"," 2 red"," 1 green"],
-"84"[" 5 red"," 14 blue"," 2 green"," 6 blue"," 5 red"," 8 green"," 12 green"," 3 blue"," 5 red"," 2 red"," 10 green"," 9 green"," 14 blue"],
-"85"[" 2 blue"," 2 red"," 14 red"," 6 green"," 5 blue"," 5 green"," 4 blue"," 6 red"," 8 red"," 5 blue"," 6 green"],
-"86"[" 1 blue"," 10 red"," 4 red"," 9 blue"," 18 red"," 3 green"," 1 green"," 1 blue"," 7 red"," 3 green"," 8 red"," 9 blue"," 14 red"," 2 green"," 4 blue"],
-"87"[" 1 green"," 11 red"," 8 blue"," 1 green"," 11 red"," 2 blue"," 7 red"," 4 blue"," 6 blue"," 1 red"," 2 green"," 13 blue"," 2 green"," 6 blue"," 12 red"," 3 green"],
-"88"[" 2 blue"," 4 red"," 8 green"," 4 blue"," 7 red"," 3 red"," 10 green"," 4 blue"," 9 green"," 3 blue"," 5 red"," 4 red"," 6 blue"," 3 green"],
-"89"[" 6 red"," 10 green"," 15 green"," 15 red"," 10 blue"," 15 red"," 1 green"," 4 blue"," 13 red"," 6 blue"," 4 green"],
-"90"[" 17 green"," 2 red"," 1 blue"," 6 green"," 1 blue"," 1 green"," 1 blue"," 16 green"," 3 red"," 14 green"," 1 red"],
-"91"[" 3 blue"," 8 green"," 3 green"," 7 red"," 9 blue"," 12 blue"," 9 red"," 7 blue"," 4 green"," 1 green"," 7 red"," 1 blue"],
-"92"[" 11 blue"," 9 red"," 12 green"," 1 blue"," 14 red"," 6 green"," 9 green"," 6 red"," 6 blue"],
-"93"[" 1 red"," 2 blue"," 3 blue"," 6 green"," 1 red"," 4 green"," 3 blue"],
-"94"[" 3 green"," 3 blue"," 1 red"," 3 blue"," 9 green"," 3 blue"," 10 green"," 3 red"," 10 green"," 6 blue"," 2 red"," 9 blue"," 14 green"," 2 red"," 1 red"," 4 blue"," 1 green"],
-"95"[" 7 blue"," 10 green"," 3 blue"," 5 green"," 2 red"," 4 blue"," 10 green"," 12 red"," 6 green"," 2 red"," 6 blue"],
-"96"[" 2 blue"," 18 green"," 8 red"," 13 green"," 3 blue"," 3 red"," 3 blue"," 15 red"," 8 green"," 13 green"," 10 red"," 2 blue"],
-"97"[" 14 blue"," 2 red"," 15 blue"," 1 green"," 2 red"," 3 red"," 6 blue"," 1 green"," 1 green"," 14 blue"," 4 red"],
-"98"[" 4 blue"," 9 red"," 10 red"," 1 green"," 11 blue"," 7 blue"," 1 red"," 1 red"," 6 blue"," 1 green"],
-"99"[" 7 red"," 6 green"," 2 blue"," 8 red"," 16 green"," 7 red"," 4 blue"],
-"100"[" 1 red"," 1 green"," 9 blue"," 6 blue"," 4 green"," 3 red"," 4 red"," 2 green"," 3 green"," 2 red"," 11 blue"," 6 green"," 5 blue"," 1 red"]]
+1,4blue,16green,2red;5red,11blue,16green;9green,11blue;10blue,6green,4red
+2,15green,20red,8blue;12green,7red;10green,2blue,15red;13blue,15red
+3,8red,2blue;3green,10blue,10red;7green,4blue,7red;8red,6green,13blue;4green,3blue,10red;7blue,7green,5red
+4,13green,14blue,9red;6green,14red,18blue;9red,11green,3blue;11green,10red,14blue;17blue,3red,4green;17blue,1red,9green
+5,2green,1red;8blue,2green,6red;5blue,9red,2green;3green,8red,6blue;6blue,5red
+6,3green,7blue,5red;3green,6red;11blue,6red,1green
+7,8red,4green,11blue;12blue,1green,5red;6red,1green,5blue;12blue,2green,2red;4blue,4green,3red;9blue,4green,8red
+8,1red,4green;6red,1green;10red;1blue,2green;4green,3red;1blue,8red
+9,9blue,13green,1red;10green,4blue,4red;3red,4blue,14green;13blue,1red,12green
+10,2blue,16red,2green;1green,16red,6blue;9red,3green;1green,2blue,8red;8red,6blue,3green
+11,7green,11red,12blue;3blue,6green,6red;10blue,13green;1red,13green,9blue;2blue,2red,13green;2red,3blue,15green
+12,3green,2red,2blue;7green,5blue;1blue,1red,3green
+13,2green,2red,3blue;3blue,3red,3green;3green,2red;2blue,3red,3green;2green,3red,1blue
+14,4green,9red;11green,10red,12blue;6red,3green,12blue;5green,4red,4blue;18blue,7red,11green;16blue,4red,10green
+15,5green,2red,9blue;18green,6red,20blue;11blue,12green,11red;9red,17blue,16green;7green,1red,9blue
+16,9blue,11green;8green,2blue;1red,6green,4blue
+17,2red,2green,2blue;7blue,4green,3red;2red,8blue,1green;2red,6blue,2green;4blue,3red;4green,5red,6blue
+18,6green,7red;3blue,6green,1red;6red,3blue,5green
+19,6red,4green,5blue;2red,4blue,13green;1green,1blue,2red;4green
+20,7red,17blue,6green;3blue,6green,8red;7blue,6red,1green;3green;8red,7green,14blue
+21,5red,3blue,7green;1blue,2red,5green;2blue,8green,3red;3blue,8red,4green;5red,1blue,3green
+22,2red,6green,1blue;3red,3green,1blue;2green,7red,2blue;5green,1red
+23,2red,16green,1blue;1red,12green,3blue;12green,1blue,3red
+24,7red,1blue,12green;2red,19green,3blue;19green,1blue,12red;6green,16red,5blue;11red,4blue,12green
+25,2blue,3red,8green;4blue,2red,9green;2red,7blue
+26,17red,8blue,3green;3green,13red,4blue;20red,1green,6blue;7blue,2red,2green;20red,8blue;2green,16red,8blue
+27,3blue,17green,19red;16green,5red,6blue;17green,16red,4blue
+28,1green,7red,1blue;8green,12red,1blue;1blue,9red,1green
+29,3green,3blue,2red;3green,2red,1blue;3green,2red,3blue;3blue,3red,4green
+30,3red,8blue,3green;1green,1red;17green,17blue;19green,15blue,1red;1green,2red,16blue
+31,11green,11blue,14red;6blue,15green,2red;11blue,19green,2red
+32,9red,2green;7green,4blue,2red;6red,5green,1blue;4red,4blue,1green;8red,6green
+33,6blue,16red,9green;5red,7blue,13green;1green,9blue,1red;4green,9blue,17red;2green,10red,13blue;9red,1blue,14green
+34,2red,2green,4blue;3blue,2green;1green,1red,2blue;1red,3blue,3green;2green,8blue,2red;3blue,1red
+35,4red,14blue,2green;1green,15blue,1red;1blue,2red,1green
+36,4blue,1red,2green;2green,15blue,8red;7blue,1red;7red,1green,1blue
+37,2blue,1green,5red;2blue,2green,4red;2blue,5red,8green;3green,2blue,1red;1red,1blue,5green;2blue,1red,8green
+38,2blue,4green,11red;7green,6red,2blue;1green,3red,1blue;4blue,4green,4red;2red,5blue,2green
+39,7green,7blue,2red;11blue,4green,8red;10red,4green,1blue;8green,9blue;9green,4red;1green,8blue
+40,1green,13blue;6blue,7red;8red;1green,13blue,3red;1green,16red,13blue;14blue,14red,1green
+41,5green,2blue,10red;4green,2blue,5red;6green,9red,1blue;4red,1blue;1red,3green,2blue;3red
+42,17green,11blue,11red;5blue,11green,9red;10blue,13red,4green;8green,4blue,15red
+43,1red,3blue;1green,3blue,1red;2blue,1green;2green,1blue;1red,3blue
+44,7green,5red,1blue;6green,1blue,5red;2blue,6green;3green,2red;4green;6red
+45,16red,14blue,19green;1red,5green,6blue;16blue,2green,1red;15green,6red,16blue
+46,8blue,2green;4red,3green,6blue;1green,8blue,3red;3green,12blue,1red
+47,9green,3blue;1green,1blue;4blue,9green,6red;8green,4blue,6red;6red,12green,1blue;4blue,7green
+48,11green,4blue,1red;11blue,8red,9green;4blue,3red,7green;10blue,2green,9red;8green,2blue,2red
+49,8green,1blue,5red;1green,1blue;3green,4red,2blue;1blue,7green,1red;1blue,7green,3red;5red,5green
+50,2green,2red,4blue;8blue,2green,7red;4blue,5red;9red,4blue;5blue,9red;2green,8red,6blue
+51,6green,1red,2blue;2red,4blue,6green;9blue,4green
+52,7green,3red,12blue;8blue,9red,5green;2blue,10green,8red;12red,5green,3blue;8red,8green,12blue;2green
+53,2green,9blue,5red;6red,3green;5red,2green
+54,9red,13blue;1green,9red,16blue;12red,1blue,4green
+55,1red,2blue,3green;1blue;1red,5blue,3green;1blue,3green;5blue
+56,1green,4red,1blue;1blue,2red,13green;5blue,4red;13green,3red,3blue
+57,13blue,2red,7green;3green,4red,14blue;3red,3green,3blue;7blue,5green,1red
+58,6red;1blue,4red,2green;3green,1blue;7green,1red;6red,13green,1blue;3red,13green,1blue
+59,5green,10red,8blue;7red,3green,2blue;6green,3red,6blue
+60,2green,5red,15blue;2green,9blue;9blue,8green,3red;2green,6red,2blue
+61,8blue,3green,4red;1red,10blue,1green;4red,5green,3blue;3red,8blue,5green
+62,19blue,3red,14green;1green,7blue,1red;15red,20blue,6green;8red,4green,14blue
+63,13red,1blue;18red,4green;6green,9red,1blue;7green,1blue,9red;5red,1blue,4green;5green,1blue,17red
+64,2green,1blue,5red;2red,5green;6red,4green
+65,1blue,7green,1red;7red,1green;1blue,3green,3red;7red,3green;3green,7red;1blue,4green
+66,7green,6blue,8red;4green,9red,3blue;6green,4blue;5blue,2green;6red,4green,2blue
+67,10blue,17green,17red;11red,9blue,9green;9blue,19red,5green;5red,3blue,20green;11red,1blue,7green
+68,9green,4red,5blue;11blue,9green,2red;11blue,2red,6green;2green,6red,3blue;1blue,6green,4red
+69,3red,15blue,1green;4red,14blue,2green;4red,18blue,4green
+70,3red,8green;2red,6green;4red,2blue,2green;8red,1green,2blue;6red,3blue,4green;13green,8red
+71,3green,17red;2red,3green;2green,8red,1blue;11red,4blue;3green,11red,3blue
+72,1red,17blue,8green;2red,11blue,16green;3red,16blue,1green;2red,3green,10blue
+73,1blue,10green,8red;19green,10red,5blue;3green,13red,8blue;12green,4blue;2green,10blue,12red
+74,17blue,7red,10green;16blue,5red;9blue,7green,2red;10red,4green,14blue
+75,10green,5blue,4red;7red,10blue,7green;7blue,9green,2red
+76,13green,16red,20blue;4red,14blue,5green;12red,1blue,8green
+77,4red,2green;8blue,3green,2red;5blue,7green,3red
+78,12green,8red,8blue;10green,9red,10blue;16blue,1red,17green;4red,15green,13blue
+79,4green,2red;15red,3blue;15red,5green
+80,4blue,1green,13red;13red,1blue,5green;5blue,9red;3blue,3green;1red;3red,7green,6blue
+81,10red,3green,4blue;2red,5green,16blue;3green,1blue;9blue,2green,12red
+82,1green,9blue,1red;10blue,1red,1green;1green,7blue;8blue
+83,1blue,5red;2blue,3red;1green,2blue,1red;2red,1blue,1green;1green,1blue;2red,1green
+84,5red,14blue,2green;6blue,5red,8green;12green,3blue,5red;2red,10green;9green,14blue
+85,2blue,2red;14red,6green,5blue;5green,4blue,6red;8red,5blue,6green
+86,1blue,10red;4red;9blue,18red,3green;1green,1blue,7red;3green,8red,9blue;14red,2green,4blue
+87,1green,11red,8blue;1green,11red,2blue;7red,4blue;6blue,1red,2green;13blue,2green;6blue,12red,3green
+88,2blue,4red,8green;4blue,7red;3red,10green,4blue;9green,3blue,5red;4red,6blue,3green
+89,6red,10green;15green,15red,10blue;15red,1green,4blue;13red,6blue,4green
+90,17green,2red,1blue;6green;1blue,1green;1blue,16green,3red;14green,1red
+91,3blue,8green;3green,7red,9blue;12blue;9red,7blue,4green;1green,7red,1blue
+92,11blue,9red,12green;1blue,14red,6green;9green,6red,6blue
+93,1red,2blue;3blue,6green;1red,4green,3blue
+94,3green,3blue;1red,3blue,9green;3blue,10green,3red;10green,6blue,2red;9blue,14green,2red;1red,4blue,1green
+95,7blue,10green;3blue,5green,2red;4blue,10green,12red;6green,2red,6blue
+96,2blue,18green,8red;13green,3blue,3red;3blue,15red,8green;13green,10red,2blue
+97,14blue,2red;15blue,1green,2red;3red,6blue,1green;1green,14blue,4red
+98,4blue,9red;10red,1green,11blue;7blue,1red;1red,6blue,1green
+99,7red,6green,2blue;8red;16green,7red,4blue
+100,1red,1green,9blue;6blue,4green,3red;4red,2green;3green,2red,11blue;6green,5blue,1red
