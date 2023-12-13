@@ -3,6 +3,7 @@ const Read = require('file-reader');
 const Write = require('write');
 
 let usableArray =[];
+let totalAmmount = 0;
 
 const REDMAX = 12;
 const GREENMAX = 13;
@@ -17,7 +18,7 @@ checkForAmmount(usableArray);
 function refactorText(text) {
     text = text.replaceAll("Game ", "");
     text = text.replaceAll(":", ",")
-    text = text.replaceAll(" ", "")
+    // text = text.replaceAll(" ", "")
     text = text.replaceAll(";", ",")
     let textArr = text.split("\r\n");
     textArr.forEach(element => {
@@ -35,14 +36,51 @@ function writeUsable(text){
 } 
 
 function checkForAmmount(usableArray){
+    let gameBeingPlayed;
+    let gamePlayable = true;
+    let totalAmmout;
     console.log(usableArray[0]);
-    
+    usableArray.forEach(element => {
+        element.forEach(gameElement => {
+            let valueToTest = gameElement.split(" ");
+            if (valueToTest.length < 2) {
+                gameBeingPlayed = valueToTest;
+                if (gameBeingPlayed == 13) {
+                    console.log("13");
+                }
+            } else {
+                const numberOfString = Number(valueToTest[1])
+                console.log(valueToTest[1],valueToTest[2]);
+                switch (valueToTest[2]) {
+                    case "red":
+                        if (!(numberOfString <= REDMAX)) {
+                            gamePlayable = false;
+                        }
+                        break;
+                    case "green":
+                        if (!(numberOfString <= GREENMAX)) {
+                            gamePlayable = false;
+                        }
+                        break;
+                    case "blue":
+                        if (!(numberOfString <= BLUEMAX)) {
+                            gamePlayable = false;
+                        }
+                        break;
+                    case "\s":
+                        //nothing ewww
+                    default:
+                        console.log("woot: " + valueToTest);
+                        break;
+                }
+            }
+        });
+        console.log(gamePlayable);
+        if (gamePlayable == true) {
+            totalAmmount = totalAmmount + parseInt(gameBeingPlayed);
+        }
+        gamePlayable = true;
+    });
+    console.log(totalAmmount);
 }
-/*TODO: Loop through the games to find out which are possible
-    First: make Array from String | shits fucked bro 
-    Second: Loop through all the games
-    Third: check for color and then check if color smaller than max
-        Return game false if number > max
-    Four: if game possible return game number
-*/
 
