@@ -8,5 +8,14 @@
     "@types/node": "^20.10.4",
     "tslib": "^2.6.2",
     "typescript": "^5.3.3"
-  }
+  },
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }

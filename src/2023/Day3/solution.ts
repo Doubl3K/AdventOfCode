@@ -2,33 +2,33 @@ const Read = require("file-reader");
 //
 
 console.log("Script is running");
-const fileContent: string = Read.file("testData.txt");
+let fileContent: string = Read.file("testData.txt");
 const lineArray: string[] = fileContent.split("\r\n");
 let charArray1: string[];
 let charArray2: string[];
 let charArray3: string[];
 
 for (let i = 0; i < lineArray.length - 2; i++) {
-	charArray1 = lineArray[i].split("");
-	charArray2 = lineArray[i + 1].split("");
-	charArray3 = lineArray[i + 2].split("");
-	yolo(charArray1, charArray2, charArray3);
+    charArray1 = lineArray[i].split("");
+    charArray2 = lineArray[i + 1].split("");
+    charArray3 = lineArray[i + 2].split("");
+    yolo(charArray1, charArray2, charArray3);
 }
 
 function yolo(
-	charArray1: string[],
-	charArray2: string[],
-	charArray3: string[]
+    charArray1: string[],
+    charArray2: string[],
+    charArray3: string[]
 ) {
-	let number: string = "";
+    let number: string = "";
 
-	let tempKeep: string = "";
-	for (let i = 0; i < charArray1.length; i++) {
-		if (parseInt(charArray1[i])) {
-		}
-	}
+    let tempKeep: string = "";
+    for (let i = 0; i < charArray1.length; i++) {
+        if (parseInt(charArray1[i])) {
+        }
+    }
 
-	console.log(tempKeep);
+    console.log(tempKeep);
 }
 
 /*TODO: 
