@@ -1,35 +1,38 @@
-const Read = require("file-reader");
+import * as fs from 'fs';
 //
 
-console.log("Script is running");
-let fileContent: string = Read.file("testData.txt");
-const lineArray: string[] = fileContent.split("\r\n");
-let charArray1: string[];
-let charArray2: string[];
-let charArray3: string[];
+export function day3() {
+    console.log("Day3");
+    const fileContent = fs.readFileSync("E:/Code/AdventOfCode/src/2023/Day3/testData.txt", "utf-8")
+    const lineArray: string[] = fileContent.split("\r\n");
+    let charArray1: string[];
+    let charArray2: string[];
+    let charArray3: string[];
 
-for (let i = 0; i < lineArray.length - 2; i++) {
-    charArray1 = lineArray[i].split("");
-    charArray2 = lineArray[i + 1].split("");
-    charArray3 = lineArray[i + 2].split("");
-    yolo(charArray1, charArray2, charArray3);
-}
-
-function yolo(
-    charArray1: string[],
-    charArray2: string[],
-    charArray3: string[]
-) {
-    let number: string = "";
-
-    let tempKeep: string = "";
-    for (let i = 0; i < charArray1.length; i++) {
-        if (parseInt(charArray1[i])) {
-        }
+    for (let i = 0; i < lineArray.length - 2; i++) {
+        charArray1 = lineArray[i].split("");
+        charArray2 = lineArray[i + 1].split("");
+        charArray3 = lineArray[i + 2].split("");
+        yolo(charArray1, charArray2, charArray3);
     }
 
-    console.log(tempKeep);
+    function yolo(
+        charArray1: string[],
+        charArray2: string[],
+        charArray3: string[]
+    ) {
+        let number: string = "";
+
+        let tempKeep: string = "";
+        for (let i = 0; i < charArray1.length; i++) {
+            if (parseInt(charArray1[i])) {
+            }
+        }
+        console.log(tempKeep);
+    }
 }
+
+
 
 /*TODO: 
 Read File content ✅
