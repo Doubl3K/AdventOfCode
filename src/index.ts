@@ -1,4 +1,4 @@
-import { day3 } from "./2023/Day3/solution";
+import { day1 } from "./2024/Day 1/solution"
 
-console.log("moin");
-day3();
+console.log("moin")
+day1()
