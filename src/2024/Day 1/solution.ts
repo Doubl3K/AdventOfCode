@@ -4,18 +4,35 @@ export function day1() {
 	/**
 	 * TODO:
 	 *
-	 * read data from txt file ✔
-	 * Put data in list ✔
-	 * sort list asc ✔
-	 * compare values of list
-	 * summ difference of values
+	 * build on compare values
+	 * loop through first array
+	 * get number at index
+	 * check for ammount of same numbers in second array
+	 * multiply number by amount
+	 * add value to solution
 	 */
 	const fileContent = readFileContent("./2024/Day 1/rawData.txt")
 	const unsortedArrays = putInArrays(fileContent)
 	const sortedArrays = sortArrays(unsortedArrays)
 	console.log(sortedArrays)
-	const solution = compareValues(sortedArrays)
-	console.log(solution)
+	const solution1 = compareValues(sortedArrays)
+	console.log(solution1)
+	const solution2 = multiplyValues(sortedArrays)
+	console.log(solution2)
+}
+
+function multiplyValues(arraysToCompare: number[][]): number {
+	let value = 0
+	arraysToCompare[0].forEach((element) => {
+		let multiplier = 0
+		arraysToCompare[1].forEach((number) => {
+			if (element === number) {
+				multiplier++
+			}
+		})
+		value += element * multiplier
+	})
+	return value
 }
 
 function compareValues(arraysToCompare: number[][]): number {
