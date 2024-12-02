@@ -1,4 +1,4 @@
-import { day1 } from "./2024/Day 1/solution"
+import { day2 } from "./2024/Day2/solution"
 
 console.log("moin")
-day1()
+day2()
