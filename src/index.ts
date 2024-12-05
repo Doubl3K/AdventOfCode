@@ -1,4 +1,6 @@
-import { day3 } from "./2024/Day3/solution"
+import { day4 } from "./2024/Day4/solution"
 
-console.log("moin")
-day3()
+console.info("--------------")
+console.info("Advent Output:")
+console.info("--------------")
+day4()
